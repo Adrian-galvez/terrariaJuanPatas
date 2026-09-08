@@ -1,0 +1,7 @@
+# Ignorar todos los archivos de mundos por defecto
+*
+
+# Permitir únicamente el mundo compartido y este archivo
+!JuanPatas.wld
+!JuanPatas.wld.bak
+!.gitignore
